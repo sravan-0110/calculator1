@@ -5,3 +5,5 @@ if op == '+':
     print("Result:", a + b)
     elif op == '-':
     print("Result:", a - b)
+    elif op == '*':
+    print("Result:", a * b)
