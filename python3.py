@@ -9,3 +9,5 @@ if op == '+':
     print("Result:", a * b)
     else:
     print("Result:", a / b if b != 0 else "Cannot divide by zero")
+    print("calculator")
+
